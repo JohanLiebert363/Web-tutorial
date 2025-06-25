@@ -9,7 +9,7 @@ function BackButton({ onClick }) {
 }
 
 function Css() {
-  return <h6>For your website to look better, use CSS for style</h6>;
+  return <h6>Pro tip: For your website to look better, use CSS for style</h6>;
 }
 
 const lessons = [
@@ -57,7 +57,7 @@ export default function MyApp() {
     setText("You can use js for actions and functions");
   }
   function getClick() {
-    setText("This is my React JS app, learn HTML on this website");
+    setText("Learn Html, Css and JavaScript all in one place for free !!!");
   }
 
   function nextStep() {
