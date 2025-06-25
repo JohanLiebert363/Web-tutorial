@@ -47,7 +47,7 @@ function TutorialStep({ level, step, currentIndex, total }) {
 
 export default function MyApp() {
   const [text, setText] = useState(
-    "This is my React JS app, learn HTML on this website"
+    "Learn Html, Css and JavaScript all in one place for free !!!"
   );
 
   const [levelIndex, setLevelIndex] = useState(0);
